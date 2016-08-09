@@ -1,0 +1,36 @@
+Origin: cmotc.github.io
+Label: cmotc.github.io
+Codename: rolling
+Date: Tue, 09 Aug 2016 21:14:26 UTC
+Architectures: amd64 i386 armhf
+Components: main
+MD5Sum:
+ 564ff0abeb28693fd36dbdcb7fad65c1 1292 main/binary-amd64/Packages
+ c0fe2959d94d090f5f3f366e8b7dea44 783 main/binary-amd64/Packages.gz
+ b93a49311885d54bc47920848a52bd5b 83 main/binary-amd64/Release
+ 564ff0abeb28693fd36dbdcb7fad65c1 1292 main/binary-i386/Packages
+ c0fe2959d94d090f5f3f366e8b7dea44 783 main/binary-i386/Packages.gz
+ 5d504a5ab8aa7ce88862f785d801f8e7 82 main/binary-i386/Release
+ 564ff0abeb28693fd36dbdcb7fad65c1 1292 main/binary-armhf/Packages
+ c0fe2959d94d090f5f3f366e8b7dea44 783 main/binary-armhf/Packages.gz
+ a9c80da2a7546feab7c4b73c77b33894 83 main/binary-armhf/Release
+SHA1:
+ 534af075f849a1d3e49d72bf6c631c849a3f9374 1292 main/binary-amd64/Packages
+ fb5876f954fedc0e21bfd98b063363cec4a57393 783 main/binary-amd64/Packages.gz
+ 8e62c83fc00de4c7e6c2bba3632993e397bd0a35 83 main/binary-amd64/Release
+ 534af075f849a1d3e49d72bf6c631c849a3f9374 1292 main/binary-i386/Packages
+ fb5876f954fedc0e21bfd98b063363cec4a57393 783 main/binary-i386/Packages.gz
+ d70387552146e61c87e844d31d92dff2b89a139a 82 main/binary-i386/Release
+ 534af075f849a1d3e49d72bf6c631c849a3f9374 1292 main/binary-armhf/Packages
+ fb5876f954fedc0e21bfd98b063363cec4a57393 783 main/binary-armhf/Packages.gz
+ 79a56de773c17edf264c9edc1e6d85585ca1ab28 83 main/binary-armhf/Release
+SHA256:
+ 8e50916c6167abebe7f0b512b496b028b10104447c1ed87cabf177a57d43254b 1292 main/binary-amd64/Packages
+ 05ade37a19bf742352f894eb098f6bbc25bc05fa8435f8ac8df723e1ac874d6b 783 main/binary-amd64/Packages.gz
+ cb42d093d0c7df5cec4ca7055ded2dbab12b7cd0241ca8e25c4706ea0f71ba2a 83 main/binary-amd64/Release
+ 8e50916c6167abebe7f0b512b496b028b10104447c1ed87cabf177a57d43254b 1292 main/binary-i386/Packages
+ 05ade37a19bf742352f894eb098f6bbc25bc05fa8435f8ac8df723e1ac874d6b 783 main/binary-i386/Packages.gz
+ da2cb76a58eea64c3c4011754f9d77eb160be46f9baf4a75478fab5f680be957 82 main/binary-i386/Release
+ 8e50916c6167abebe7f0b512b496b028b10104447c1ed87cabf177a57d43254b 1292 main/binary-armhf/Packages
+ 05ade37a19bf742352f894eb098f6bbc25bc05fa8435f8ac8df723e1ac874d6b 783 main/binary-armhf/Packages.gz
+ 80a4c8ccf9425053c719d165f5586669b18acf2a40a670ffb61e0cea7f989e61 83 main/binary-armhf/Release

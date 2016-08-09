@@ -1,0 +1,27 @@
+Package: svirfneblin-panel
+Version: 20160809-1
+Architecture: all
+Maintainer: cmotc <cmotc@openmailbox.org>
+Installed-Size: 109
+Depends: awesome (>= 3.4), svirfneblin-battery-widget, svirfneblin-network-manager
+Homepage: https://www.github.com/svirfneblin-panel
+Priority: optional
+Section: unknown
+Filename: pool/main/s/svirfneblin-panel/svirfneblin-panel_20160809-1_all.deb
+Size: 14776
+SHA256: e64ab1fae4bf35f7fb0f14955648940fc39923194e16816f1d7239544dfe4cb3
+SHA1: 9a0945b10dc6737f3ff85bd403ccb371b40a83f4
+MD5sum: 4a689217e8ea7551c8ea8587081688c6
+Description: A Gnome3-Like configuration for Awesome WM
+ I like Gnome3's appearance, but I want tiling and I hate ShellShape,
+ and I don't think I really need  all these graphical configuration
+ tools, and I really don't think I need any more javascript in my life
+ than absolutely necessary. Seriously guy's, this is getting out of
+ hand. Maybe it's not my place, but I'm just sayin'. Well technically
+ not just sayin'. I'm doin', as in re-implementing this stuff I like
+ about Gnome in a language that doesn't make me seasick to look at.
+ .
+ This package contains the custom configuration, session, and a laucher
+ which checks for the correct config without touching the default
+ Awesome WM config for Debian, which is treated as a fallback.
+
