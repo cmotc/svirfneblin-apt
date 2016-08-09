@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 09 Aug 2016 01:57:55 -0400
+Source: svirfneblin-panel
+Binary: svirfneblin-panel
+Architecture: source all
+Version: 20160809-1
+Distribution: unstable
+Urgency: low
+Maintainer: cmotc <cmotc@openmailbox.org>
+Changed-By: idk <idk@devuan.local>
+Description:
+ svirfneblin-panel - A Gnome3-Like configuration for Awesome WM
+Changes:
+ svirfneblin-panel (20160809-1) unstable; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 1e651112a49c3199178ea541ddfb10bdbe1fff07 930 svirfneblin-panel_20160809-1.dsc
+ f2618238519ce9c1aada2f6f24e1b1bc123a6588 106072 svirfneblin-panel_20160809.orig.tar.xz
+ f54a738c82e6732ebde93154bebd1e7698165354 2680 svirfneblin-panel_20160809-1.debian.tar.xz
+ 9a0945b10dc6737f3ff85bd403ccb371b40a83f4 14776 svirfneblin-panel_20160809-1_all.deb
+Checksums-Sha256:
+ bcda86c591e66327bcc33fb359a09ce7bc8d4a82346e61a9dfc6a396226687da 930 svirfneblin-panel_20160809-1.dsc
+ 9b8b0643228951ec0a4e0c1fe0e82e6c3bb1314e03e76150377cc52733f2d37c 106072 svirfneblin-panel_20160809.orig.tar.xz
+ 0e69527758aae2da93d7e85617733910f2692df9bae1d48f6d2e632a26f7d52d 2680 svirfneblin-panel_20160809-1.debian.tar.xz
+ e64ab1fae4bf35f7fb0f14955648940fc39923194e16816f1d7239544dfe4cb3 14776 svirfneblin-panel_20160809-1_all.deb
+Files:
+ 63a202d77245af8cbdd1c8b053725495 930 unknown optional svirfneblin-panel_20160809-1.dsc
+ 257cf7cea94215995f196925113c71f4 106072 unknown optional svirfneblin-panel_20160809.orig.tar.xz
+ 3da65688cbea2b427bda8bd22c27c20f 2680 unknown optional svirfneblin-panel_20160809-1.debian.tar.xz
+ 4a689217e8ea7551c8ea8587081688c6 14776 unknown optional svirfneblin-panel_20160809-1_all.deb
